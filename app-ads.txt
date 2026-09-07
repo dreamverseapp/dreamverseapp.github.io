@@ -120,3 +120,5 @@ pokkt.com, 6246, RESELLER, c45702d9311e25fd
 dauup.com, 34222, RESELLER, 4daba13e2b0dfd9
 insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
 prado.co, 14260, RESELLER
+
+facebook.com, 1505515157959433, DIRECT, c3e20eee3f780d68
